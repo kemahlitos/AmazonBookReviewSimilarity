@@ -21,7 +21,7 @@ Techniques Used
 You can find the project’s working notebook and detailed report in this repository.
 This project also includes scalability analysis with runtime and precision metrics.
 
-[![Open In Colab](https://colab.research.google.com/github/kemahlitos/AmazonBookReviewSimilarity/blob/main/massive_datasets.ipynb)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kemahlitos/AmazonBookReviewSimilarity/blob/main/massive_datasets.ipynb)
 
 
 
