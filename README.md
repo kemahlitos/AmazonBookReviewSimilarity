@@ -5,16 +5,16 @@ Author: Yusuf Kemahlı
 
 ## Project Overview
 
-This project focuses on detecting similar book reviews from the large-scale Amazon Books dataset using **MinHash** and Locality Sensitive Hashing (LSH). The goal is to demonstrate a scalable, from-scratch implementation that can handle massive datasets efficiently.
+This project focuses on detecting similar book reviews from the large scale Amazon Book Reviews dataset using **MinHash** and Locality Sensitive Hashing (LSH). The goal is to demonstrate a scalable, from-scratch implementation that can efficiently handle massive datasets.
 
 - Dataset: [Amazon Book Reviews (Kaggle)](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)
 - ~ 3 million reviews
 
 Techniques Used
 
-- **Shingling**
-- **MinHashing** for approximate Jaccard similarity
-- **LSH** for sublinear candidate retrieval with banding
+- **Shingling** 
+- **MinHashing** to approximate Jaccard similarity
+- **LSH** for sublinear candidate retrieval thanks to banding
 - **Prefix Filtering** to reduce unnecessary comparisons
 
 
